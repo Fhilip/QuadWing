@@ -1,0 +1,1 @@
+/dev/tty.usbserial-A502FX5C;115200
